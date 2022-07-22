@@ -1,0 +1,12 @@
+{
+  "name": "cra-template-complete-react-app",
+  "version": "1.0.0",
+  "description": "- Bootstrap\r - Redux Toolkit\r - React Router DOM\r - Loto, Comfortaa fonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
